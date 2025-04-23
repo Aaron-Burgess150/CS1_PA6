@@ -1,0 +1,11 @@
+10
+buy braziljersey 1000 30000
+buy argentinascarf 2000 10000
+change_price braziljersey 45
+change_price argentinascarf 15
+sell braziljersey 50
+sell argentinascarf 100
+change_price braziljersey 60
+sell braziljersey 90
+sell argentinascarf 1899
+buy argentinascarf 10 50

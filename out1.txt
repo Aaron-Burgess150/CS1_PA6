@@ -1,0 +1,9 @@
+braziljersey 1000 70000
+argentinascarf 2000 60000
+braziljersey 950 62250
+argentinascarf 1900 63750
+braziljersey 860 69150
+argentinascarf 1 97635
+argentinascarf 11 97585
+97585
+10
